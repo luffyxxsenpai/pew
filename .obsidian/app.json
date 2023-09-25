@@ -1,0 +1,13 @@
+{
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "tabSize": 4,
+  "vimMode": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "img",
+  "readableLineLength": false,
+  "promptDelete": false,
+  "showFrontmatter": true
+}
